@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Improving JavaScript skills and understanding web performance**
 
-- 💬 Ask me about **Web development, responsive design, Pyton ,and databases**
+- 💬 Ask me about **Web development, responsive design, Python ,and databases**
 
 - 📫 How to reach me **qureshi992005@gmail.com**
 
